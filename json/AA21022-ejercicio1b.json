@@ -1,0 +1,16 @@
+{
+	"fichero": {
+		"ficha": {
+			"nombre": "Antonio",
+			"apellido": "Barbero",
+			"direccion": "Calle de Los Andes, 45",
+			"telefono": "79502783",
+			"email": "daniel.avelar2002@gmail.com",
+			"dui": "06386089-1",
+			"isss": "121026430",
+			"afp": "010004547790",
+			"_id": "1",
+			"_fechaingreso": "1/11/2012"
+		}
+	}
+}

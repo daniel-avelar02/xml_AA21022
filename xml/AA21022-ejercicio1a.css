@@ -1,0 +1,38 @@
+/* AA21022-ejercicio1a.css */
+fichero {
+    background-color: #1e90ff; /* Azul intenso */
+    border: 3px solid #00008b; /* Borde azul oscuro */
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */
+    border-radius: 10px; /* Bordes redondeados */
+  }
+  
+  ficha {
+    background-color: #ff4500; /* Rojo anaranjado */
+    display: block;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid #8b0000; /* Borde rojo oscuro */
+    border-radius: 8px;
+  }
+  
+  nombre {
+    color: #f0f8ff; /* Blanco apagado */
+    display: inline;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-shadow: 2px 2px 5px #000000; /* Sombra de texto */
+  }
+  
+  apellido {
+    color: #ffd700; /* Amarillo dorado */
+    display: inline;
+    font-size: 1.2em;
+  }
+  
+  direccion {
+    color: #ffd700; /* Amarillo */
+    font-size: 1.5em;
+    display: none;
+  }
+  

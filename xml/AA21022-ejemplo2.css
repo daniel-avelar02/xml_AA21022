@@ -1,0 +1,6 @@
+/* AA21022-ejemplo2.css */
+pais { background-color: blue; }
+departamento { background-color: red; display: block; }
+cabecera { color: white; display: inline; }
+habitantes { color: yellow; display: inline; }
+altura { color: yellow; font-size: 1cm; display: none; }

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="AA21022-ejercicio2b.css"?>
+
+<!-- carnet-ejercicio2b.xml AA21022 -->
+<pais nombre="El Salvador" moneda="Dólar estadounidense" codigoTelefonico="+503" areaTerritorial="21,041 km²">
+  <idiomas>
+    <idioma tipo="oficial">Español</idioma>
+    <idioma tipo="autóctono">Náhuat</idioma>
+    <idioma tipo="segundo">Inglés</idioma>
+  </idiomas>
+
+  <departamento id="1" nombre="San Salvador">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+  </departamento>
+
+  <departamento id="2" nombre="Ahuachapán">
+    <cabecera>Ahuachapán</cabecera>
+    <habitantes>185,511</habitantes>
+    <altura>800 MSNM</altura>
+  </departamento>
+  
+    <departamento id="3" nombre="Sonsonate">
+    <cabecera>Sonsonate</cabecera>
+    <habitantes>71,541</habitantes>
+    <altura>220 MSNM</altura>
+  </departamento>
+</pais>

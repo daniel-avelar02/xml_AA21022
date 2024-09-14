@@ -1,0 +1,51 @@
+/* AA21022-ejercicio2a.css */
+pais {
+    background-color: #87ceeb; /* Azul cielo */
+    padding: 20px;
+    border: 2px solid #4682b4; /* Azul acero */
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  departamento {
+    background-color: #f0e68c; /* Amarillo pálido */
+    padding: 15px;
+    margin: 10px 0;
+    border: 2px dashed #b8860b; /* Borde punteado dorado */
+    border-radius: 6px;
+  }
+  
+  cabecera {
+    color: #2f4f4f; /* Gris oscuro */
+    font-weight: bold;
+    font-size: 1.4em;
+  }
+  
+  habitantes {
+    color: #8b0000; /* Rojo oscuro */
+    font-size: 1.2em;
+  }
+  
+  altura {
+    color: #556b2f; /* Verde oliva oscuro */
+    font-size: 1em;
+  }
+  
+  idiomas {
+    font-size: 1.1em;
+    font-style: italic;
+  }
+  
+  idioma[tipo="oficial"] {
+    color: #4b0082; /* Índigo */
+    font-weight: bold;
+  }
+  
+  idioma[tipo="autóctono"] {
+    color: #8a2be2; /* Violeta oscuro */
+  }
+  
+  idioma[tipo="segundo"] {
+    color: #ff4500; /* Rojo anaranjado */
+  }
+  

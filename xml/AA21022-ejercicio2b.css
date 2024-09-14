@@ -1,0 +1,81 @@
+/* AA21022-ejercicio2b.css */
+
+pais {
+    background-color: #f0f8ff; /* Azul claro suave */
+    border: 2px solid #1e90ff; /* Borde azul intenso */
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+    margin-bottom: 20px;
+    max-width: 800px; /* Limita el ancho del país */
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Helvetica', sans-serif;
+  }
+  
+  departamento {
+    background-color: #ffffff; /* Blanco */
+    border: 2px solid #b0c4de; /* Azul claro pálido */
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 12px;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.15); /* Sombra moderada */
+    max-width: 750px; /* Ancho limitado para departamentos */
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  cabecera {
+    color: #4682b4; /* Azul acero */
+    font-size: 1.8em;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #87ceeb; /* Línea separadora */
+    padding-bottom: 10px;
+  }
+  
+  habitantes, altura, idiomas {
+    font-size: 1.2em;
+    color: #4b4b4b; /* Gris oscuro */
+    padding: 10px 0;
+    margin: 0;
+    text-align: center;
+    border-bottom: 1px dashed #dcdcdc; /* Línea punteada */
+  }
+  
+  habitantes {
+    background-color: #f7faff; /* Fondo azul muy suave */
+  }
+  
+  altura {
+    background-color: #eef2f7; /* Fondo gris muy suave */
+  }
+  
+  idiomas {
+    background-color: #f7f7f7; /* Fondo ligeramente gris */
+  }
+  
+  idioma {
+    display: block;
+    font-size: 1em;
+    margin: 5px 0;
+    padding: 3px;
+  }
+  
+  idioma[tipo="oficial"] {
+    color: #00008b; /* Azul oscuro */
+    font-weight: bold;
+    border-bottom: 1px solid #4682b4; /* Línea azul separadora */
+  }
+  
+  idioma[tipo="autóctono"] {
+    color: #228b22; /* Verde bosque */
+    font-style: italic;
+  }
+  
+  idioma[tipo="segundo"] {
+    color: #b22222; /* Rojo fuego */
+    text-transform: uppercase; /* Mayúsculas */
+  }
+  

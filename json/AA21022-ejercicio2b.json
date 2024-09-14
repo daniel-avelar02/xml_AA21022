@@ -1,0 +1,47 @@
+{
+	"pais": {
+		"idiomas": {
+			"idioma": [
+				{
+					"_tipo": "oficial",
+					"__text": "Español"
+				},
+				{
+					"_tipo": "autóctono",
+					"__text": "Náhuat"
+				},
+				{
+					"_tipo": "segundo",
+					"__text": "Inglés"
+				}
+			]
+		},
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Ahuachapán",
+				"habitantes": "185,511",
+				"altura": "800 MSNM",
+				"_id": "2",
+				"_nombre": "Ahuachapán"
+			},
+			{
+				"cabecera": "Sonsonate",
+				"habitantes": "71,541",
+				"altura": "220 MSNM",
+				"_id": "3",
+				"_nombre": "Sonsonate"
+			}
+		],
+		"_nombre": "El Salvador",
+		"_moneda": "Dólar estadounidense",
+		"_codigoTelefonico": "+503",
+		"_areaTerritorial": "21,041 km²"
+	}
+}
